@@ -1,3 +1,12 @@
+# Next.js Template
+
+This template includes:
+
+- [Typescript](https://www.typescriptlang.org/)
+- [ESLint](https://eslint.org/docs/user-guide/getting-started)
+- [Prettier](https://prettier.io/)
+- [Husky](https://github.com/typicode/husky)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
