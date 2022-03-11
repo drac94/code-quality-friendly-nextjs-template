@@ -1,4 +1,7 @@
-# Next.js Template
+# Code Quality Friendly Next.js Template
+
+![tools included](https://user-images.githubusercontent.com/1719915/157989606-8cf70714-24b3-428b-9fb7-9b33dfc6c120.png)
+
 
 This template includes:
 
